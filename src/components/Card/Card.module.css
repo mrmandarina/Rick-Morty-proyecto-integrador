@@ -1,0 +1,21 @@
+.Card {
+    border: 2px solid rgba(53, 52, 52, 0.273);
+    width: 22%;
+    border-radius: 6px;
+    padding: 8px;
+    margin: 8px;
+    background-color: rgba(4, 83, 4, 0.569);
+
+}
+img{
+    width: 100%
+}
+
+.button{
+    float:right;
+}
+
+.txt {
+    text-align: center;
+    color: aliceblue;
+}
